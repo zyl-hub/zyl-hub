@@ -30,8 +30,8 @@
 - Structured memory + tool calling + task state tracking  
 - LLM reasoning aligned with executable robot actions  
 
-📄 Paper: *RoboClaw: An Agentic Framework for Scalable Long-Horizon Robotic Tasks*  
-🔗 https://arxiv.org/abs/2603.11558  
+🔗 Project: https://github.com/RoboClaw-Robotics/RoboClaw   
+📄 Paper: https://arxiv.org/abs/2603.11558  
 
 ---
 
